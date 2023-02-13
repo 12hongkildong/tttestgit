@@ -1,0 +1,7 @@
+function Background(){
+    
+}
+
+Background.prototype={
+
+};
