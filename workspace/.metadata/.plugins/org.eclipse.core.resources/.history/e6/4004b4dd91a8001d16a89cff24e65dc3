@@ -1,0 +1,12 @@
+package com.newlecture.web.entity;
+
+public class NList {
+	
+	private Object[] data;
+	
+	public void add(Object n);
+	
+	
+	
+	
+}

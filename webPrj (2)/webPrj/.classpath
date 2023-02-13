@@ -13,6 +13,6 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="C:/Users/ict05-23/Documents/카카오톡 받은 파일/webPrj (2)/webPrj/src/main/webapp/WEB-INF/lib/ojdbc8-21.8.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/ojdbc8-21.8.0.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

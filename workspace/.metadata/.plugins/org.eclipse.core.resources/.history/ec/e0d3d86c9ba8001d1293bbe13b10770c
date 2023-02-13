@@ -1,0 +1,23 @@
+package com.newlecture.web.entity;
+
+public class NList {
+	
+	private Object[] data;
+	private int index;
+	
+	public NList() {
+		index=0;
+		data = new Object[3];
+	
+	}
+	
+	public void add(Object n) {
+		data[index] = n;
+		index++;
+	}
+	
+	public Object get(int idx) {
+		return data[idx];
+	}
+	
+}
